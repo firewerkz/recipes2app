@@ -13,7 +13,7 @@ include_in_header: false
 - Eggs
 - 30ml Light Soy sauce
 - 30ml Dark Sor sauce
-- 30ml Sweet Soy sauce, kepis manis
+- 30ml Sweet Soy sauce, Kicap Manis
 ## Method
 - Fry chorizo
 - Fry garlic
