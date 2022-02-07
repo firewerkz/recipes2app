@@ -3,13 +3,12 @@ layout: page
 title: Cottage Pie
 include_in_header: false
 ---
-
 # Cottage Pie
 ## Ingredients
 - Bolognese sauce
-- Potatos
+- Potatoes
 ## Method
 - Make Bolognese 
 - Make mashed potato
-- Cover Bolognese with mashed potato and grated cheese
+- Cover Bolognese with mashed potato and grated cheese in an ovenproof dish
 - Bake in the oven until done

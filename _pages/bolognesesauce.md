@@ -3,7 +3,6 @@ layout: page
 title: Bolognese Sauce
 include_in_header: false
 ---
-
 # Bolognese Sauce
 ## Ingredients
 - Oil
@@ -14,7 +13,7 @@ include_in_header: false
 - Sugar
 - Mince
 - Tinned Tomatoes
-- Tomatoe puree
+- Tomato purée
 - Worcestershire sauce
 - Salt & Pepper to taste
 ## Method
@@ -22,4 +21,4 @@ include_in_header: false
 - Add sugar and vinegar
 - Add mince and brown
 - Add the rest and wash out any nearly empty sauce bottles or jars
-- Simmer for 1 hour plus, the loner the better
+- Simmer for 1 hour plus, the longer, the better

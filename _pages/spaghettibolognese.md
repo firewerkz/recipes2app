@@ -3,7 +3,6 @@ layout: page
 title: Spaghetti Bolognese
 include_in_header: false
 ---
-
 # Spaghetti Bolognese
 ## Ingredients
 - Bolognese sauce
@@ -12,4 +11,4 @@ include_in_header: false
 - Make Bolognese sauce
 - Cook spaghetti
 - Serve sauce on spaghetti
-- Top with grated parmasian
+- Top with grated Parmesan

@@ -3,6 +3,5 @@ layout: page
 title: What's New
 include_in_header: false
 ---
-
-# Changelog
-Work in progress
+# Version history
+First version still work in progress...

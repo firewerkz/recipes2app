@@ -3,7 +3,6 @@ layout: page
 title: Macaroni Cheese
 include_in_header: false
 ---
-
 # Macaroni Cheese
 ## Ingredients
 - Soup
